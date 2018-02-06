@@ -37,5 +37,5 @@
       "bookmarksPath": "oss_data/bnmt_enjako_interlingua_10k_1024_bookmarks.txt"
     }
   ],
-  "modelCheckpointPath": "Demo datasets"
+  "modelCheckpointPath": "AgileDev Demo datasets"
 }
