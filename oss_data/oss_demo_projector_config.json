@@ -7,7 +7,7 @@
       "metadataPath": "oss_data/movies_labels.tsv"
     },
     {
-      "tensorName": "Menttal Health Classifer",
+      "tensorName": "Mental Health Classifer",
       "tensorShape": [158, 100],
       "tensorPath": "oss_data/mhc_tensors.tsv",
       "metadataPath": "oss_data/mhc_labels.tsv"
