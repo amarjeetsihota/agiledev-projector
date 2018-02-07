@@ -2,7 +2,7 @@
   "embeddings": [
     {
       "tensorName": "AgileDev Movie Recommender",
-      "tensorShape": [3177, 300],
+      "tensorShape": [3176, 300],
       "tensorPath": "oss_data/movies_tensor.tsv",
       "metadataPath": "oss_data/movies_labels.tsv"
     },
