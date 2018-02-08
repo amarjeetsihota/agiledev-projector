@@ -1,10 +1,22 @@
 {
   "embeddings": [
     {
-      "tensorName": "AgileDev Movie Recommender",
+      "tensorName": "AgileDev Movie Recommender Category Model (movies)",
       "tensorShape": [3177, 300],
-      "tensorPath": "oss_data/movies_tensors.tsv",
-      "metadataPath": "oss_data/movies_labels.tsv"
+      "tensorPath": "oss_data/movies_category_word_tensors.tsv",
+      "metadataPath": "oss_data/movies_category_word_labels.tsv"
+    },
+	{
+      "tensorName": "AgileDev Movie Recommender User Model (movies)",
+      "tensorShape": [3105, 300],
+      "tensorPath": "oss_data/movies_user_word_tensors.tsv",
+      "metadataPath": "oss_data/movies_user_word_labels.tsv"
+    },
+	{
+      "tensorName": "AgileDev Movie Recommender User Model (users)",
+      "tensorShape": [6040, 300],
+      "tensorPath": "oss_data/movies_user_doc_tensors.tsv",
+      "metadataPath": "oss_data/movies_user_doc_labels.tsv"
     },
     {
       "tensorName": "Mental Health Classifier",
